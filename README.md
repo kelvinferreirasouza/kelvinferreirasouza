@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvinferreirasouza)](https://www.linkedin.com/in/kelvinferreirasouza)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvinferreirasouza1@gmail.com)](mailto:kelvinferreirasouza1@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548988167561&text=Olá!)](https://api.whatsapp.com/send?phone=5548988167561&text=Olá! Estou vindo do seu perfil no GitHub.)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548988167561&text=Olá!)](https://api.whatsapp.com/send?phone=5548988167561&text=Olá!)
 
 I am Kelvin Ferreira Souza 😃. I am from Pelotas, Rio Grande do Sul. I love to explore and learn about new things.
 ## ⚡ Technologies
