@@ -10,7 +10,7 @@ I am Kelvin Ferreira Souza 😃. I am from Pelotas, Rio Grande do Sul. I love to
 ## ⚡ Technologies
 - Front-end development using **HTML, CSS, Bootstrap, Javascript, jQuery, Ajax**
 - Backend development using **PHP, NodeJS**
-- Database Management Systems using **MySQL, PostgreSQL, Oracle, MongoDB**
+- Database Systems using **MySQL, PostgreSQL, Oracle, MongoDB**
 - Robust full-stack system design implementation
 
 ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvinferreirasouza&hide=[%22issues%22]&show_icons=true)
