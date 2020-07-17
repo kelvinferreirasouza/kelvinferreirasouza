@@ -16,4 +16,4 @@ I love to explore and learn about new things.
 
 ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvinferreirasouza&hide=[%22issues%22]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kelvinferreirasouza)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelvinferreirasouza.visitor-badge)
