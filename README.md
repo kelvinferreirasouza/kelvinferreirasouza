@@ -12,6 +12,6 @@ I love to explore and learn about new things.
 - Front-end development using **HTML, CSS, Bootstrap, Javascript, jQuery, Ajax**
 - Backend development using **PHP, NodeJS**
 - Database Systems using **MySQL, PostgreSQL, Oracle, MongoDB**
-- Robust full-stack system design implementation
-
+- Robust full-stack system design implementation.
+- 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelvinferreirasouza.visitor-badge)
