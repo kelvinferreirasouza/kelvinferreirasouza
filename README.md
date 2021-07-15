@@ -13,5 +13,4 @@ I love to explore and learn about new things.
 - Backend development using **PHP, NodeJS**
 - Database Systems using **MySQL, PostgreSQL, Oracle, MongoDB**
 - Robust full-stack system design implementation.
-- 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelvinferreirasouza.visitor-badge)
