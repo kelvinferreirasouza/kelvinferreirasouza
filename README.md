@@ -6,10 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvinferreirasouza1@gmail.com)](mailto:kelvinferreirasouza1@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548988167561&text=Olá!)](https://api.whatsapp.com/send?phone=5548988167561&text=Olá!)
 
-Hi, I'm Kelvin Ferreira Souza 😃. I'm from Pelotas, Rio Grande do Sul, work in Tijucas, Santa Catarina!
+Hi, I'm Kelvin Ferreira Souza 😃. I'm from Pelotas, Rio Grande do Sul, work in São Paulo, SP!
 I love to explore and learn about new things.
 ## ⚡ Technologies
-- Front-end development using **HTML, CSS, Bootstrap, Javascript, jQuery, Ajax**
+- Front-end development using **HTML5, CSS3, SASS, Bootstrap, Javascript, jQuery, Ajax**
 - Backend development using **PHP, NodeJS**
 - Database Systems using **MySQL, PostgreSQL, Oracle, MongoDB**
 - Robust full-stack system design implementation.
