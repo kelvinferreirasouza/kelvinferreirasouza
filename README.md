@@ -9,8 +9,8 @@
 Hi, I'm Kelvin Ferreira Souza 😃. I'm from Pelotas, Rio Grande do Sul, work in São Paulo, SP!
 I love to explore and learn about new things.
 ## ⚡ Technologies
-- Front-end development using **HTML5, CSS3, SASS, Bootstrap, Javascript, jQuery, Ajax**
-- Backend development using **PHP, NodeJS**
+- Front-end development using **ReactJs, TypeScript, GatsbyJs, Styled Components, TailwindCSS, HTML5, CSS3, SASS/LESS, Bootstrap, Javascript, jQuery, Bootstrap, MaterialUI**
+- Backend development using **PHP, NodeJS, Laravel, Socket.io**
 - Database Systems using **MySQL, PostgreSQL, Oracle, MongoDB**
 - Robust full-stack system design implementation.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelvinferreirasouza.visitor-badge)
